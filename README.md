@@ -4,6 +4,8 @@
 
 RETNETS is a powerful package designed to facilitate the usage of the Retentive Network by AI engineers. Whether you're working with Torch or Tensorflow, RETNET provides seamless integration and empowers you to harness the potential of Retentive Network for your AI projects.
 
+**See on Pypi:** [retnets](https://pypi.org/project/retnets/)
+
 ## What is the Retentive Network?
 
 ## What is RETNET?
